@@ -23,15 +23,21 @@
 /* Salve os arquivos e garanta que o portfólio abre corretamente no navegador. */
 
  *{
-    margin: 5000;
-    padding: 5000;
+    margin: 20;
+    padding: 100000;
     box-sizing:border-box;
+    color: #000;
  }
 
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(117, 93, 93);
     height: 100vh;
  }
+logo{
+   height: 0;
+}
+
+   
  
  
  
@@ -75,4 +81,4 @@ body{
  header nav ul li{
     display:inline-block ;
     padding: 0 40px;
- } */ */
+ } */ 
