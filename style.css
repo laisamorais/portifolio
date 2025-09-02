@@ -23,21 +23,37 @@
 /* Salve os arquivos e garanta que o portfólio abre corretamente no navegador. */
 
  *{
-    margin: 20000;
-    padding:  1000;
-    box-sizing: border-box;
+    margin: 5000;
+    padding: 5000;
+    box-sizing:border-box;
  }
 
 body{
     background-color: rgb(255, 255, 255);
     height: 100vh;
  }
- .interface{
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /* .interface{
     max-width: 1280px;
     margin: 0 auto;
  }
  /* estilo do cabeçalho */
- header{
+ /* header{
     padding: 40px 4%;
  }
 
@@ -52,11 +68,11 @@ body{
     text-decoration: none;
  }
 
- header nav ul li{
-    list-style-type: none;
+ header nav ul li{ */
+    /* list-style-type: none;
  }
 
  header nav ul li{
     display:inline-block ;
     padding: 0 40px;
- }
+ } */ */
