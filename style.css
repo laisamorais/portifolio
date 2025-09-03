@@ -24,17 +24,35 @@
 
  *{
     margin: 20;
-    padding: 100000;
+    padding: 10000;
     box-sizing:border-box;
     color: #000;
+
  }
 
 body{
     background-color: rgb(117, 93, 93);
     height: 100vh;
  }
-logo{
-   height: 0;
+.logo{
+   height: 350px;
+   width: 220px;
+   border-radius: 30%;
+  
+   border: 6px solid #fff;
+}
+.logo img{
+   height: 100%;
+   width: 100%;
+   border-radius: 30%;
+  
+   transition: 0.5s ease;
+   cursor: pointer;
+
+}
+.introduçao{
+   height: 400px;
+   width: 500;
 }
 
    
